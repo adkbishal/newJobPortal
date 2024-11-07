@@ -71,10 +71,6 @@ echo "<script>alert('User not registered with us');</script>";
     </div>
   </section>
 
-
-
-  
-
   <!--MAIN START-->
 
   <div id="main"> 

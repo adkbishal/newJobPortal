@@ -94,7 +94,7 @@ foreach($results as $result)
 
 <a class="text"><i class="fa fa-calendar"></i><?php echo htmlentities($result->postinDate); ?></a> 
 
-<strong class="price"><i class="fa fa-money"></i>$<?php echo htmlentities($result->salaryPackage); ?></strong>
+<strong class="price"><i class="fa fa-money"></i>Rs<?php echo htmlentities($result->salaryPackage); ?></strong>
 
 <div class="clearfix"> 
   <!--Full Time -->
